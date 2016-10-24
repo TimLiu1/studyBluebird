@@ -1,0 +1,19 @@
+{
+  "name": "promise",
+  "version": "0.0.1",
+  "description": "study of bluebird",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimLiu1/studyBluebird.git"
+  },
+  "author": "Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TimLiu1/studyBluebird/issues"
+  },
+  "homepage": "https://github.com/TimLiu1/studyBluebird#readme"
+}
